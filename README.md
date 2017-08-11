@@ -1,3 +1,3 @@
 # Sims3-CC
 
-Each object is orgonized by folder.
+Each object is organized by folder.
